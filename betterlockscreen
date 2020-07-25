@@ -26,7 +26,7 @@ init_filenames() {
         timecolor=ffffffff
         datecolor=ffffffff
         loginbox=00000066
-        font="Inconsolata-g"
+        font="sans-serif"
         locktext='Type password to unlock...'
         wallpaper_cmd='feh --bg-fill --no-fehbg'
 
